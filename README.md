@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0069-sqrtx) |
 | [1927-sum-game](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
