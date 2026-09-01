@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0016-3sum-closest) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
 |  |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0069-sqrtx) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
