@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0016-3sum-closest) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0069-sqrtx) |
 | [1927-sum-game](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
 | ------- |
