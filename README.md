@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/3904-smallest-stable-index-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -68,4 +69,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
