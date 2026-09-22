@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0016-3sum-closest) |
 | [1480-running-sum-of-1d-array](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
