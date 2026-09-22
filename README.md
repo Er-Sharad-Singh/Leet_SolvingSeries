@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0412-fizz-buzz) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1927-sum-game](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/3904-smallest-stable-index-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
