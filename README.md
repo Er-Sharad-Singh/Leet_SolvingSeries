@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0088-merge-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/1929-concatenation-of-array) |
@@ -71,10 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0088-merge-sorted-array) |
 ## Prefix Sum
 |  |
 | ------- |
