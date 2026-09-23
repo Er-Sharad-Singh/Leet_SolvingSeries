@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0021-merge-two-sorted-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0088-merge-sorted-array) |
+| [0876-middle-of-the-linked-list](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
