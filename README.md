@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0412-fizz-buzz) |
 | [1927-sum-game](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/1927-sum-game) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
