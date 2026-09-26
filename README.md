@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0027-remove-element) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Er-Sharad-Singh/Leet_SolvingSeries/tree/master/0387-first-unique-character-in-a-string) |
